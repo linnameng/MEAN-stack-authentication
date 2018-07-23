@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+.video-container {
+    width: 500px;
+    margin: auto;
+    align-items: center;
+}
+
+.current-video {
+    width: 100%;
+    background-color: mediumpurple;
+    height: 300px;
+}
+
+.next-video-button {
+    width: 350px;
+    height: 40px;
+    margin: 15px auto;
+    display: block;
+}
